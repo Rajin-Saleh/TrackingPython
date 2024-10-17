@@ -1,4 +1,4 @@
-# Line structure in Python
+# Line structure in Python and comments
 
 """
 Multiline comment
