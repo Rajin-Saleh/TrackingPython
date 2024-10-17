@@ -1,7 +1,0 @@
-1. Python code is divided into logical lines
-2 . Every line is ended by a token called newline.
-3. Any commented or blank lines are ignored by Pyhton interpreter.
-4. We can add two physical lines into one logical line using \ .
-5. We can also have two logical line in one physical line using ;
-6. Joining Lines
-7. Indentation
