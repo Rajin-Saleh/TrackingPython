@@ -21,3 +21,5 @@ print(l1)
 remove = l1.remove(456)
 print(remove)
 print(l1)
+
+# List Methods
