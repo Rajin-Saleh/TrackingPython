@@ -1,4 +1,4 @@
-Python Learning Journey
+#Python Learning Journey
 
 This repository is dedicated to mastering Python, step by step, with consistency and determination.
 Goals:
