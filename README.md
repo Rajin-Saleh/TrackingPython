@@ -1,12 +1,13 @@
 Python Learning Journey
 
-This repository is dedicated to mastering Python, step by step, with consistency and determination. Goals:
+This repository is dedicated to mastering Python, step by step, with consistency and determination.
+Goals:
 
-Complete the core 11 chapters of Python.
-Master Object-Oriented Programming (OOP) in Python.
-Understand and apply Data Structures and Algorithms using Python.
-Learn Tkinter for building modern graphical user interfaces (GUIs).
-Explore and develop Python games.
+    Complete the core 11 chapters of Python.
+    Master Object-Oriented Programming (OOP) in Python.
+    Understand and apply Data Structures and Algorithms using Python.
+    Learn Tkinter for building modern graphical user interfaces (GUIs).
+    Explore and develop Python games.
 
 Why This Journey?
 
